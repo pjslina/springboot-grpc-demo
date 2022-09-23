@@ -18,8 +18,6 @@ import java.util.Map;
  * Assert.notNull(clazz, "The class must not be null");
  * Assert.isTrue(i > 0, "The value must be greater than zero");</pre>
  *
- * This class is empowered by  {@link org.springframework.util.Assert}
- *
  * @author Frank Zhang
  * @date 2019-01-13 11:49 AM
  */
