@@ -10,7 +10,7 @@ import org.junit.Test;
 public class Sha256Test {
 
     @Test
-    public void test01() {
+    public void testSha01() {
         String sha256Hex = DigestUtil.sha256Hex("我是一段测试字符串");
         System.out.println(sha256Hex);
     }
